@@ -1,3 +1,9 @@
+'''
+by Hermann18 ( aka Ubermenchanin or Philistine Typical ) 
+This is the basic version of the program that processes video from cameras. 
+Could be improved as 
+*optimize code; *work with file storage; *optimize processing 
+'''
 from imageai.Detection import VideoObjectDetection, ObjectDetection
 import os
 import cv2
